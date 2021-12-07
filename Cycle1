@@ -67,26 +67,7 @@ public void Click(View view) {
 String user = username.getText().toString();
 }
 }
-OUTPUT:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.Change the content from EditText and print it in a TextView
 
@@ -145,23 +126,7 @@ public class MainActivity extends AppCompatActivity {
         txt.setText("this is text ");
     }
 }
-OUTPUT: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Read a content from EditText and print it in a  TextView.
 
@@ -216,33 +181,7 @@ public class MainActivity extends AppCompatActivity {
         text2.setText(content);
     }
 }
-OUTPUT:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4.Change the background color on a button click.
 PROGRAM:
 XML:
@@ -281,17 +220,7 @@ public class MainActivity extends AppCompatActivity {
         v.setBackgroundResource(android.R.color.holo_blue_dark);
     }
 }
-OUTPUT:
-
-
-
-
-
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 5.Create a sample calculator
 PROGRAM:
 XML:
@@ -636,4 +565,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-OUTPUT:
+
