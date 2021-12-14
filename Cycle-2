@@ -82,7 +82,7 @@ OUTPUT:
 
 
 
-2.Create an activity and move to Facebook loginpage on button click.
+3. Read message in first activity and pass it on to the second activity on a button click
 PROGRAM:
 XML:
 <LinearLayout
